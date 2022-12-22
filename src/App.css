@@ -1,0 +1,19 @@
+/* add your styles here */
+.image{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 1vh;
+    row-gap: 1vh;
+    padding-left: 1vh;
+    padding-right: 1vh;
+    padding-bottom: 1vh;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+}
+
